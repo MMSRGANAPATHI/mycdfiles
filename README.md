@@ -1,4 +1,10 @@
-This Repository contains lab experiments that were covered in the compiler design course in 5th semester of Computer Science of Engineering course(2021-2025).
+This Repository contains lab experiments that I covered in the compiler design course in 5th semester of Computer Science of Engineering course(2021-2025).
+
+Student : Vamsi Krishna Mulukutla
+Regd.No : 05A3
+Year: 2021-25
+Course: B.Tech(CSE)
+Subject: Computer Networks && Compiler Design Laboratory
 
 Contents:
 
