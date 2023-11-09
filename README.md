@@ -8,10 +8,10 @@ Subject: Computer Networks && Compiler Design Laboratory
 
 Contents:
 
-Experiment - 1 - Tokenizing a File (Python)
-Experiment - 2 - Lexical Analyser using FLEX and YACC Compiler
-Experiment - 3 - Lex Program to Implement Arithmetic Expression Evaluation
-Experiment - 7 - First and Follow Generation (Python)
-Experiment - 10 - Implementation of Left Factoring (Python)
-Experiment - 13 - Implementation of Shift Reduce Parser (Python)
-Experiment - 15 - Conversion of Infix Expression to - Three Address Code, Prefix Expression and Postfix Expression.
+#Experiment - 1 - Tokenizing a File (Python)
+#Experiment - 2 - Lexical Analyser using FLEX and YACC Compiler
+#Experiment - 3 - Lex Program to Implement Arithmetic Expression Evaluation
+#Experiment - 7 - First and Follow Generation (Python)
+#Experiment - 10 - Implementation of Left Factoring (Python)
+#Experiment - 13 - Implementation of Shift Reduce Parser (Python)
+#Experiment - 15 - Conversion of Infix Expression to - Three Address Code, Prefix Expression and Postfix Expression.
